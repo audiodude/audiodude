@@ -9,8 +9,6 @@ Travis currently lives with his amazing wife Abby and cuddly cat Shekel in San F
 ### Contact Information
 <a rel="me" href="https://layer8.space/@audiodude">Mastodon @audiodude</a>
 
-[@audiodude](https://twitter.com/audiodude)
-
 <!--
 **audiodude/audiodude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
