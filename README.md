@@ -7,7 +7,7 @@ Travis has released a single and an EP under the moniker "Danger Third Rail", wh
 Travis currently lives with his amazing wife Abby and cuddly cat Shekel in San Francisco CA USA.
 
 ### Contact Information
-<a rel="me" href="https://layer8.space/@audiodude">Mastodon @audiodude</a>
+<a rel="me" href="https://sfba.social/@audiodude">Mastodon @audiodude</a>
 
 <!--
 **audiodude/audiodude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
